@@ -16,13 +16,13 @@
 
 	- HTML5
 	- CSS3
-	- JAVASCRIPT
-	
+	- JAVASCRIPT	
 
 
 <h2> Rainforest Sound </h2> 
 <a href="http://www.rainforestsound.com">Rainforest Sound</a>
 
+![alt tag](http://i.imgur.com/WH9Ou7t.png)
 
 	Web app that plays and loops over random recordings of rainforest ambience. It has volume display and uses linux cronjobs to recommend you a different music album per day.
 
@@ -41,7 +41,7 @@
 <h2> holaGarnier </h2> 
 <a href="http://holagarnier.xyz">Hola Garnier</a>
 
-
+![alt tag](http://i.imgur.com/iFFkBaq.png)
 
 	Short project I did for architecture school. It's a PHP website that uses cookies and GET method to generate a trivia puzzle that one has to guess in order to unblock pieces of an essay I wrote.
 
