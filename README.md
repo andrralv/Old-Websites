@@ -49,8 +49,23 @@
 
 	Tools of the trade:
 
-
 	- HTML5
 	- CSS3
 	- PHP7
+
+<h2> Super Legitimo </h2> 
+<a href="http://superlegitimo.com">Link temporarily unavailable</a>
+
+![alt tag](http://i.imgur.com/pGmVcmJ.png)
+
+	Freelancing project. Basic website for SuperLegitimo Fanzine 2016 showcasing various Costarrican music artists and their music videos.
+
+	Will become a portfolio in two months after the video wears off.
+
+	Tools of the trade:
+
+	- HTML5
+	- CSS3
+	- JQUERY
+	- PERSONA CMS
 
