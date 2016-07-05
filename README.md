@@ -4,6 +4,7 @@
 <h2> White Problematic Kid Lyrics Generator </h2>
 <a href="http://whiteproblematickid-lyricsgenerator.com">White Problematic Kid Lyrics Generator</a>
 
+![alt tag](http://i.imgur.com/0Cu0Pdj.png)
 
 	Joke-website developed with the intention of using Javascript vanilla code for 
 	manipulating the DOM.
@@ -22,7 +23,6 @@
 <h2> Rainforest Sound </h2> 
 <a href="http://www.rainforestsound.com">Rainforest Sound</a>
 
-	![alt tag](http://i.imgur.com/0Cu0Pdj.png)
 
 	Web app that plays and loops over random recordings of rainforest ambience. It has volume display and uses linux cronjobs to recommend you a different music album per day.
 
