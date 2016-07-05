@@ -46,7 +46,7 @@
 ![alt tag](http://i.imgur.com/iFFkBaq.png)
 
 	Short project I did for architecture school. It's a PHP website that uses cookies
-	and GET method to generate a trivia puzzle that one has to guess in order to unblock 
+	and GET method to generate a trivia puzzle that one has to guess in order to unlock 
 	pieces of an essay I wrote.
 
 	The front-end is very basic but uses templating done fully in PHP. It's also responsive 
@@ -75,3 +75,5 @@
 	- JQUERY
 	- PERSONA CMS
 
+If you would like to take a look at my work on graphic design and Architecture, I suggest
+you take a look at my <a href="https://www.behance.net/andrralv">Behance Page</a>
