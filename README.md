@@ -24,7 +24,9 @@
 
 ![alt tag](http://i.imgur.com/WH9Ou7t.png)
 
-	Web app that plays and loops over random recordings of rainforest ambience. It has volume display and uses linux cronjobs to recommend you a different music album per day.
+	Web app that plays and loops over random recordings of rainforest ambience. 
+	It has volume display and uses linux cronjobs to recommend you a different
+	music album per day.
 
 	Website is fully responsive.
 
@@ -43,9 +45,12 @@
 
 ![alt tag](http://i.imgur.com/iFFkBaq.png)
 
-	Short project I did for architecture school. It's a PHP website that uses cookies and GET method to generate a trivia puzzle that one has to guess in order to unblock pieces of an essay I wrote.
+	Short project I did for architecture school. It's a PHP website that uses cookies
+	and GET method to generate a trivia puzzle that one has to guess in order to unblock 
+	pieces of an essay I wrote.
 
-	The front-end is very basic but uses templating done fully in PHP. It's also responsive and has download links from the server.
+	The front-end is very basic but uses templating done fully in PHP. It's also responsive 
+	and has download links from the server.
 
 	Tools of the trade:
 
@@ -58,7 +63,8 @@
 
 ![alt tag](http://i.imgur.com/pGmVcmJ.png)
 
-	Freelancing project. Basic website for SuperLegitimo Fanzine 2016 showcasing various Costarrican music artists and their music videos.
+	Freelancing project. Basic website for SuperLegitimo Fanzine 2016 showcasing 
+	various Costarrican music artists and their music videos.
 
 	Will become a portfolio in two months after the video wears off.
 
