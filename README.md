@@ -11,6 +11,7 @@
 
 	It lets the user choose a character from a selection of indie artists and the
 	website returns lines of their own lyrics randomly merged together in a full phrase.
+	I made the sprites look like Mortal Kombat II characters cause I thought that was cool.
 
 	Tools of the trade:
 
