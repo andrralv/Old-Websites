@@ -62,7 +62,7 @@
 <h2> Super Legitimo </h2> 
 <a href="http://superlegitimo.com">Link temporarily unavailable</a>
 
-![alt tag](http://i.imgur.com/pGmVcmJ.png)
+![alt tag](http://i.imgur.com/9xnKKar.jpg)
 
 	Freelancing project. Basic website for SuperLegitimo Fanzine 2016 showcasing 
 	various Costarrican music artists and their music videos.
@@ -76,5 +76,7 @@
 	- JQUERY
 	- PERSONA CMS
 
+I can also do wordpress and wooCommerce stuff but that's boring to put in here. 
+--
 If you would like to take a look at my work on graphic design and Architecture, I suggest
 you take a look at my <a href="https://www.behance.net/andrralv">Behance Page</a>
