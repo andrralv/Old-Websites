@@ -76,7 +76,8 @@
 	- JQUERY
 	- PERSONA CMS
 
+
 I can also do wordpress and wooCommerce stuff but that's boring to put in here. 
---
+
 If you would like to take a look at my work on graphic design and Architecture, I suggest
 you take a look at my <a href="https://www.behance.net/andrralv">Behance Page</a>
