@@ -60,14 +60,14 @@
 	- PHP7
 
 <h2> Super Legitimo </h2> 
-<a href="http://superlegitimo.com">Link temporarily unavailable</a>
+<a href="http://superlegitimo.com">Super Legitimo</a>
 
 ![alt tag](http://i.imgur.com/9xnKKar.jpg)
 
 	Freelancing project. Basic website for SuperLegitimo Fanzine 2016 showcasing 
 	various Costarrican music artists and their music videos.
 
-	Will become a portfolio in two months after the video wears off.
+	Will become a portfolio in two months after the video buzz wears off.
 
 	Tools of the trade:
 
@@ -76,8 +76,22 @@
 	- JQUERY
 	- PERSONA CMS
 
+<h2> Ramspott Risk Management </h2> 
+<a href="http://ramspott.com">Ramspott</a>
 
-I can also do wordpress and wooCommerce stuff but that's boring to put in here. 
+![alt tag](http://i.imgur.com/szOrDRZ.png)
+
+	Freelancing projecto for a stater Risk Management and Financial firm in Zurich.
+
+	Static website that showcases services done by the company in a multiligual german-english site.
+
+	Tools of the trade:
+
+	- WORDPRESS
+	- PHP
+	- CSS3
+	- POLYLANG PLUGIN
+
 
 If you would like to take a look at my work on graphic design and Architecture, I suggest
 you take a look at my <a href="https://www.behance.net/andrralv">Behance Page</a>
