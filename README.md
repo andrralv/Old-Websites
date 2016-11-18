@@ -2,7 +2,7 @@
 <h3> Web development projects and exercises are added here.</h3>
 
 <h2> White Problematic Kid Lyrics Generator </h2>
-<a href="http://whiteproblematickid-lyricsgenerator.com">White Problematic Kid Lyrics Generator</a>
+<a href="http://whiteproblematickid-lyricsgenerator.com" target="_blank">White Problematic Kid Lyrics Generator</a>
 
 ![alt tag](http://i.imgur.com/0Cu0Pdj.png)
 
@@ -21,7 +21,7 @@
 
 
 <h2> Rainforest Sound </h2> 
-<a href="http://www.rainforestsound.com">Rainforest Sound</a>
+<a href="http://www.rainforestsound.com" target="_blank">Rainforest Sound</a>
 
 ![alt tag](http://i.imgur.com/WH9Ou7t.png)
 
@@ -42,7 +42,7 @@
 
 
 <h2> holaGarnier </h2> 
-<a href="http://holagarnier.xyz">Hola Garnier</a>
+<a href="http://holagarnier.xyz" target="_blank">Hola Garnier</a>
 
 ![alt tag](http://i.imgur.com/iFFkBaq.png)
 
@@ -60,7 +60,7 @@
 	- PHP7
 
 <h2> Super Legitimo </h2> 
-<a href="http://superlegitimo.com">Super Legitimo</a>
+<a href="http://superlegitimo.com" target="_blank">Super Legitimo</a>
 
 ![alt tag](http://i.imgur.com/9xnKKar.jpg)
 
@@ -77,7 +77,7 @@
 	- PERSONA CMS
 
 <h2> Ramspott Risk Management </h2> 
-<a href="http://ramspott.com">Ramspott</a>
+<a href="http://ramspott.com" target="_blank">Ramspott</a>
 
 ![alt tag](http://i.imgur.com/szOrDRZ.png)
 
@@ -94,7 +94,7 @@
 
 
 <h2> Climate Change Disruptors [work-in-progress] </h2> 
-<a href="http://ccddemo.azurewebsites.net/">CCD Demo</a>
+<a href="http://ccddemo.azurewebsites.net/" target="_blank">CCD Demo</a>
 
 ![alt tag](http://i.imgur.com/7xfPiA0.png)
 
