@@ -110,6 +110,8 @@
 	- ANGULAR2 / TYPESCRIPT / ES6
 	- NODE.JS MODULES: GULP, BROWSERIFY, TSLINT, ETC
 	- JAVASCRIPT: JQUERY, PACE.JS, CHART.JS
+	
+<hr/>
 
 If you would like to take a look at my work on graphic design and Architecture, I suggest
 you take a look at my <a href="https://www.behance.net/andrralv">Behance Page</a>
