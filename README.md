@@ -81,7 +81,7 @@
 
 ![alt tag](http://i.imgur.com/szOrDRZ.png)
 
-	Freelancing projecto for a stater Risk Management and Financial firm in Zurich.
+	Freelancing project for a stater Risk Management and Financial firm in Zurich.
 
 	Static website that showcases services done by the company in a multiligual german-english site.
 
@@ -92,6 +92,23 @@
 	- CSS3
 	- POLYLANG PLUGIN
 
+
+<h2> Climate Change Disruptors [work-in-progress] </h2> 
+<a href="http://ccddemo.azurewebsites.net/">CCD Demo</a>
+
+![alt tag](http://i.imgur.com/7xfPiA0.png)
+
+	Midsized project for Canadian Company, all front-end done on my end, back-end is separate.  
+
+	Showcases a landing page, login, register, account settings and a single page application in Angular2.
+
+	Tools of the trade:
+
+	- HTML5
+	- CSS3
+	- ANGULAR2 / TYPESCRIPT / ES6
+	- NODE.JS MODULES: GULP, BROWSERIFY, TSLINT, ETC
+	- JAVASCRIPT: JQUERY, PACE.JS, CHART.JS
 
 If you would like to take a look at my work on graphic design and Architecture, I suggest
 you take a look at my <a href="https://www.behance.net/andrralv">Behance Page</a>
