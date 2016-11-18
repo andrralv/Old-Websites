@@ -100,7 +100,7 @@
 
 	Midsized project for Canadian Company, all front-end done on my end, back-end is separate.  
 
-	Showcases a landing page, login, register, account settings and a single page application in Angular2.
+	Showcases a landing page, login, register, account settings and a single page application dashboard done in Angular2.
 
 	Tools of the trade:
 
