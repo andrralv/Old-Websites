@@ -21,7 +21,7 @@
 
 
 <h2> Rainforest Sound </h2> 
-<a href="http://www.rainforestsound.com" target="_blank">Rainforest Sound</a>
+<a href="http://www.rainforestsound.club" target="_blank">Rainforest Sound</a>
 
 ![alt tag](http://i.imgur.com/WH9Ou7t.png)
 
@@ -42,7 +42,7 @@
 
 
 <h2> holaGarnier </h2> 
-<a href="http://holagarnier.xyz" target="_blank">Hola Garnier</a>
+<a href="http://holagarnier.club" target="_blank">Hola Garnier</a>
 
 ![alt tag](http://i.imgur.com/iFFkBaq.png)
 
@@ -111,10 +111,23 @@
 	- NODE.JS MODULES: GULP, BROWSERIFY, TSLINT, ETC
 	- JAVASCRIPT: JQUERY, PACE.JS, CHART.JS
 	
+<h2> Get In Shape For Women </h2> 
+<a href="http://getinshapeforwomen.com/" target="_blank">CCD Demo</a>
+
+![alt tag](http://i.imgur.com/AqXay5r.jpg)
+
+	High traffic website for Gym Studio franchise company. It includes custom Javascript and PHP, email
+	and other integration plugins. Geolocalization. Statistics, etc.
+
+	Tools of the trade:
+
+	- HTML5
+	- CSS3
+	- WORDPRESS
+	- JAVASCRIPT
+	- PHP 5.6
+	
 <hr/>
 
 If you would like to take a look at my work on graphic design and Architecture, I suggest
 you take a look at my <a href="https://www.behance.net/andrralv">Behance Page</a>
-
-
---- WORK IN PROGRESS -- CCD
