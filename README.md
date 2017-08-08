@@ -112,7 +112,7 @@
 	- JAVASCRIPT: JQUERY, PACE.JS, CHART.JS
 	
 <h2> Get In Shape For Women </h2> 
-<a href="http://getinshapeforwomen.com/" target="_blank">CCD Demo</a>
+<a href="http://getinshapeforwomen.com/" target="_blank">getinshapeforwomen</a>
 
 ![alt tag](http://i.imgur.com/AqXay5r.jpg)
 
