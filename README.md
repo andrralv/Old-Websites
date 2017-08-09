@@ -93,7 +93,7 @@
 	- POLYLANG PLUGIN
 
 
-<h2> Climate Change Disruptors [work-in-progress] </h2> 
+<h2> Climate Change Disruptors [Unavailable as of June 2017] </h2> 
 <a href="http://ccddemo.azurewebsites.net/" target="_blank">CCD Demo</a>
 
 ![alt tag](http://i.imgur.com/7xfPiA0.png)
