@@ -91,25 +91,6 @@
 	- PHP
 	- CSS3
 	- POLYLANG PLUGIN
-
-
-<h2> Climate Change Disruptors [Unavailable as of June 2017] </h2> 
-<a href="http://ccddemo.azurewebsites.net/" target="_blank">CCD Demo</a>
-
-![alt tag](http://i.imgur.com/7xfPiA0.png)
-
-	Midsized project for Canadian Company, all front-end done on my end, back-end is separate.  
-
-	Showcases a landing page, login, register, account settings and a single page application 
-	dashboard done in Angular2.
-
-	Tools of the trade:
-
-	- HTML5
-	- CSS3
-	- ANGULAR2 / TYPESCRIPT / ES6
-	- NODE.JS MODULES: GULP, BROWSERIFY, TSLINT, ETC
-	- JAVASCRIPT: JQUERY, PACE.JS, CHART.JS
 	
 <h2> Get In Shape For Women </h2> 
 <a href="http://getinshapeforwomen.com/" target="_blank">getinshapeforwomen</a>
